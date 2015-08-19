@@ -1,5 +1,5 @@
 # pencilcode
 ##subtitulo
 **negritas**
-__cursiva__
+__ cursiva__
 Este repositorio tiene actividades educativas de pencilcode para estudiantes. 
